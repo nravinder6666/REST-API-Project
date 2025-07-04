@@ -25,5 +25,6 @@ module.exports = [
       handler: require('../controllers/dept.controller').deleteDept
     }
 
+    
   ];
   
